@@ -4,6 +4,8 @@
 > **Built for CPCCU AI-Powered Web App Development & Deployment Hackathon 2026**  
 > **Permanent Campus:** Khagan, Birulia, Savar, Dhaka-1340, Bangladesh (~10 km from Gabtoli)  
 > **Official University Portal:** [cityuniversity.ac.bd](https://cityuniversity.ac.bd/)
+>
+> LIVE DEMO: https://campusoscub.vercel.app/
 
 ---
 
